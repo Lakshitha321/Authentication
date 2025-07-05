@@ -7,6 +7,9 @@ import hand_wave from './hand_wave.png'
 import header_img from './header_img.png'
 
 export const assets = {
+    logo: "https://via.placeholder.com/150x50/3B82F6/FFFFFF?text=Logo",
+  header_img: "https://via.placeholder.com/150x150/8B5CF6/FFFFFF?text=User",
+  hand_wave: "https://via.placeholder.com/32x32/F59E0B/FFFFFF?text=👋",
     arrow_icon,
     lock_icon,
     logo,
