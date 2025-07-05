@@ -19,4 +19,4 @@ const userAuth = async (req, res, next) => {
     res.json({ success: false, message: 'Invalid token' })
   }
 }
-  export default userAuth;
+export default userAuth;
